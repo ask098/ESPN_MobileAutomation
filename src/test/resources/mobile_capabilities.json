@@ -1,0 +1,7 @@
+{
+	"deviceName": "emulator-5554",
+	"platformName": "Android",
+	"platformVersion": "8.1.0",
+	"appPackage": "com.espn.score_center",
+	"appActivity": "com.espn.sportscenter.ui.LaunchActivity"
+}
